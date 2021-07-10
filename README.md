@@ -12,8 +12,8 @@ Funcationality :
 
 ==> Manually add location : Home screen -> long press on google map 
 
-==> Pods install :
-    'GoogleMaps', '5.1.0',  
+==> Pods install :  
+   'GoogleMaps', '5.1.0',  
   'FMDB',  
   'ReachabilitySwift',  
   'SwiftLint'
